@@ -1,0 +1,10 @@
+com\inetBanking\testCases\TC_LoginTest_001.class
+com\inetBanking\utilities\ReadConfig.class
+com\inetBanking\testCases\TC_AddCustomerTest_003.class
+com\inetBanking\pageObjects\AddNewCustomerPage.class
+com\inetBanking\testCases\TC_LoginDDT_002.class
+com\inetBanking\utilities\ListenersClass.class
+com\inetBanking\pageObjects\LoginPage.class
+com\inetBanking\testCases\BaseClass.class
+inetBankingV1\inetBankingV1\AppTest.class
+com\inetBanking\utilities\ExcelUtils.class
